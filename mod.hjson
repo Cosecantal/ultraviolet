@@ -6,8 +6,7 @@ author: "Cosecantal"
 
 main: "uv.ultraviolet"
 
-#the mod description as seen in the mod dialog
-description: "A Mindustry Java mod template."
+description: "Ultraviolet is an in-progress mod. Downloading this likely won't serve you any good yet."
 
 #the mod version
 version: 1.0
